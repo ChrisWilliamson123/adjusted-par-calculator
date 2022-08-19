@@ -1,6 +1,7 @@
 # Adjusted Par Calculator
 
 Inputs: course name and target score
+
 Output: Adjusted pars based on each hole's SI
 
 ## Usage
